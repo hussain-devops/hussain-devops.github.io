@@ -27,13 +27,11 @@ opts_knit$set(width=75)
 
 # About Me
 
-* 4.3 years of experience in IT industry working across multiple teams as a DevOps Engineer
+* 5+ years of experience in IT industry working across multiple teams as a DevOps Engineer
 
 * Experience working on Linux based environments hosted across On-premise and Cloud Infrastructure
 
-* Good knowledge in scripting languages - Bash, Groovy and Python
-
-* Implemented solutions for DevSecOps including security scanning as part of build pipeline using Veracode and ZAP tool
+* Implemented solutions for DevSecOps including security scanning as part of build pipeline using SAST, DAST and NexusIQ
 
 * Worked on containerization using Docker and orchestrating it with Rancher, Kubernetes
 
@@ -41,58 +39,41 @@ opts_knit$set(width=75)
 # Work Experience
 
 ### Wipro Digital (Lloyds Banking Group): FAL Team - Platform Engineer
-#### August 2018 - Present (1 year 2 months and counting)
+#### April 2020 - Present (11 months and counting)
 
-* Led the lab as a Platform engineer and enabled multiple feature teams with DevOps toolchain
-* Responsible for managing and implementing DevOps solutions for both Offshore and Onshore, engaging with multiple feature teams
-* Implemented logging mechanism using ELK stack for the DEV platform which has around 50 microservices
-* Created a docker-compose for setting up the pact broker to perform contract testing
-* Built Grafana dashboards for monitoring of cloud-hosted VM's and applications and used Prometheus for scraping the metrics from various targets
-* Created an ELK stack across the VM's for retrieving the logs from multiple microservices
-* Integrated contract testing as part of build pipeline
-* Created a pipeline job for BDD framework used by QA teams to run their regression test suites on-demand 
-* Enabled performance testing for microservices using Gatling as part of build pipeline to ensure the application is performing as expected with the new changes
-* Managed upgradation of SonarQube and Nexus application which has been hosted in Docker containers
-* Troubleshot broken DB issues with Nexus by following the appropriate procedure and restored it back
-* Added DAST testing as part of Jenkins pipeline using ZAP to generate the report which lists the alerts and its severity
-* Created multiple EC2 instances and have executed playbooks for configuring it using Ansible
-* Worked with AWS lambda for running functions on-demand using python
+* Implemented Containerization as a Service using IBM ICP
+* Worked with Helm charts for deploying application into ICP
+* Integrated the k8s platform with Dynatrace for monitoring
+* Implemented DB2 as containerized service for development usage
 
+### Wipro Digital (Lloyds Banking Group): FAL Team - Platform Engineer, London
+#### February 2020 - March 2020 (2 months)
+
+* Business Trip to United Kingdom for taking up Client meetings and discussions
+* Interacted with customers and explained the journey on the “Digital Transformation"
+
+### Wipro Digital (Lloyds Banking Group): FAL Team - Platform Engineer
+#### August 2018 - January 2020 (1 year 3 months)
+
+* Worked on migration between on-premise and cloud infrastructure
+* Involved in creating and managing various tools such as Jenkins, Nexus, SonarQube, GHE, Gitlab, Pact Broker, Microservices
+* Added deployment functionality with Jenkins pipeline onto IBM Urban Code Deploy
+* Demonstrated the implementation of Rancher 2 and k8s to the clients for engineering interventions
 
 ### Wipro Digital (Lloyds Banking Group): Fraud Team - DevOps Engineer
 #### January 2017 - June 2018 (1 year 6 months)
 
-* Built and managed DevOps Platform on IBM Cloud
 * Worked on migration between on-premise and cloud infrastructure
 * Involved in creating and managing various tools such as Jenkins, Nexus, SonarQube, GHE, Gitlab, Pact Broker, Microservices
-* Used Rancher and Kubernetes for managing Docker containers hosted on cloud VM's
-* Migrated Jenkins jobs from legacy (1.x) to pipeline (2.x) using Declarative pipeline
-* Worked with LetsEncrypt of AWS to attach certificates for the DNS
-* Created and managed users with their roles using Red Hat Identity Manager
 * Added deployment functionality with Jenkins pipeline onto IBM Urban Code Deploy
-* Implemented Persistent storage for Docker containers with Portworx
-* Migrated volumes across VM's by manipulating the nodes cluster
-* Provided support for the development team to go through RTL process
 * Demonstrated the implementation of Rancher 2 and k8s to the clients for engineering interventions
-* Worked with MySQL for retrieving reco5 rds from database
-
 
 ### Wipro Digital (Lloyds Banking Group): Central Team - DevOps Engineer
 #### September 2015 - December 2016 (1 year 3 months)
-* Integrated Jenkins Build with Code Quality and deployed the artifacts into Nexus Repository
-* Worked with GitHub REST API for managing users and adding to organization
+
 * Added Jenkins jobs for various components of a monolithic application and enabled a continuous integration at each level
-* Created roles in Ansible based on the purpose and segregated it for re-using it with multiple playbooks
-* Wrote Ansible playbooks for configuring Linux VM's and provisioning it to the feature teams for simulating the behavior of Dev environments
-* Created and maintained Jenkins Job using groovy and bash scripting
-* Configured repositories in Nexus artefactory which include proxy and hosted repository
-* Enabled threshold metrics in SonarQube to act as a quality gate which checks for any major issues and reports back to the teams
-* Wrote cron jobs for Linux environment to clean up the storage based on the given requirements
-* Provided documentation using confluence for the development teams to make them self sufficient
-* Fixed frequent occurring issues in VM's by analyzing the root cause and automated the process using bash scripting
-* Created Jenkins job for automation of webhooks configuration which will get trigger whenever a commit happens in Gerrit
-* Worked with Gerrit for managing the source code, added hooks for auto labeling the commits 
-* Used SQL queries to update the Gerrit Database using DML transactions
+* Wrote Ansible playbooks for configuring Linux VM’s and provisioning it to the feature teams for simulating the behavior of Dev environments
+* Fixed frequent occurring issues in VM’s by analyzing the root cause and automated the process using bash scripting
 
 
 # Master's thesis project
@@ -112,12 +93,13 @@ The huge amount of information in the Scientific research literature has present
 # Additional Skills
 
 * Fundamental understanding of Natural Language Processing and its applications
-* Knowledge of various levels of testing and its scope
-* Presented a talk at JFrog India on "Jenkins Nightmare and How I saved my Day"
-* Explored various services provided by Google Cloud platform, Amazon Web Services
-* Contributed to few open source projects in GitHub
-* Completed certification in IBM Bluemix Developer v2
-* Built Proof Of Concept's and demonstrated to clients
+* Working along with OSS community to improve and build the product
+
+# Achievements
+
+* Recognized by Wipro for “Best Performer of the Year” - 2020
+* Won Second prize at Reboot Hackathon’20, London for setting up and deploying application into GKE (Google Kubernetes Engine)
+* Presented a talk at JFrog India on “Jenkins Nightmare and How I saved my Day”
 
 # Education
 
@@ -129,13 +111,23 @@ As part of Wipro Software Technology Academy (Wista) programme
 ### B.Sc., Computer Science (2012 - 2015)
 Thiruvalluvar University, Vellore, India
 
+# Certification
+
+### Google Cloud Platform (GCP)
+  * Professional Cloud Architect
+  * Associate Cloud Engineer
+
+### Amazon Web Services (AWS)
+  * Certified Solution Architect - Associate
+
+
 # Personal Information
 
 Languages	    : English (Proficient), Tamil (Native), Urdu (Native)
 		            
 Mobile	      : +91 8148 00 3494
 
-Email	      	: 003imdad@gmail.com
+Email	      	: hussain.devops12@gmail.com
 
 [GitHub](github.com/hussain-devops)
   
