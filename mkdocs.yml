@@ -1,0 +1,6 @@
+site_name: Imdad Hussain
+site_url: https://hussain-devops.github.io/https://example.com/
+#theme: 
+#  name: mkdocs
+#  custom_dir: 'custom-theme/'
+theme: flatly
