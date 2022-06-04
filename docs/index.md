@@ -70,11 +70,14 @@ The huge amount of information in the Scientific research literature has present
 
 ## Technical Skills
 
-##### CI/CD, Jenkins, Docker, Rancher, k8s, Ansible , Nexus, Sonar, Terraform
+##### DevOps
+CI/CD, Jenkins, Docker, Rancher, k8s, Ansible , Nexus, Sonar, Terraform
 
-##### Python, Bash, Groovy
+##### Scripting
+Python, Bash, Groovy
 
-##### GCP, AWS
+##### Cloud
+Google Cloud Platform, Amazon Web Services
 
 ### Additional Skills
 
