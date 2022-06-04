@@ -16,8 +16,17 @@
 
 ## Work Experience
 
+#### Wipro Digital (Lloyds Banking Group): Platform Engineer - London
+##### November 2021 - Present ( 6 months and counting)
+
+* Migration of Development environment 
+* Working closely with Customers at Onsite
+* To lead the Migration from Private cloud to Google Cloud Platform
+
+## Work Experience
+
 #### Wipro Digital (Lloyds Banking Group): FAL Team - Platform Engineer
-##### April 2020 - Present (1 year 2 months and counting)
+##### April 2020 - October 2021 (19 months)
 
 * Configured SSL termination and certificate sign off from CA
 * Understanding on E2E application flow including kafka topic,LB ,DB
